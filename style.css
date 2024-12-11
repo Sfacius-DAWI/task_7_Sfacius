@@ -1,0 +1,32 @@
+.text-style, .profile-card .role, .profile-card .name {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.profile-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(0, 255, 247);
+}
+.profile-card .avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #3498db;
+  border: 2px solid white;
+  margin-bottom: 10px;
+}
+.profile-card .name {
+  color: #3498db;
+  font-size: 24px;
+  background-color: rgb(0, 255, 247);
+}
+.profile-card .role {
+  color: #2ecc71;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=style.css.map */
